@@ -3,7 +3,7 @@
 # See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
 # newer versions of the distribution.
 deb http://id.archive.ubuntu.com/ubuntu/ xenial main restricted
-# deb-src http://id.archive.ubuntu.com/ubuntu/ xenial main restricted
+ deb-src http://id.archive.ubuntu.com/ubuntu/ xenial main restricted
 
 ## Major bug fix updates produced after the final release of the
 ## distribution.
